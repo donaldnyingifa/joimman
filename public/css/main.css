@@ -1,0 +1,35 @@
+body {
+  font-size: 20px;
+}
+
+table td {
+    font-size: 15px;
+    font-weight: 300;
+}
+
+.btn {
+  font-size: 15px;
+}
+
+table th {
+    font-size: 20px;
+    font-weight: 400;
+}
+
+h3 {
+  font-weight: 400;
+}
+
+.head_text {
+  /* font-family: "Roboto-Bold" !important; */
+  font-size: 30px;
+  text-decoration: none;
+  /* text-shadow: 0 2px 5px whitesmoke, 0 2px 10px white; */
+}
+
+.head_text2 {
+  /* font-family: "Roboto-Bold" !important; */
+  font-size: 20px;
+  text-decoration: none;
+  /* text-shadow: 0 2px 5px whitesmoke, 0 2px 10px white; */
+}
